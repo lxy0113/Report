@@ -1,0 +1,26 @@
+Al  2.699
+PMMA 1.19
+Be 1.848
+C 1.7
+Cu 8.92
+Cd 8.65
+Er 9.066
+Nd 6.8
+Fe 7.874
+Pb 11.34
+oil 0.85
+Re 21.02
+Se 4.819
+Si 2.33
+Ta 16.65
+water 1.0
+lexan 1.25
+pyrex 2.23
+CsI 4.51
+Mo 1.022
+air 1.205e-3
+borosilicate 2.23
+W 19.25
+H 0.085e-3
+Be 1.848
+ 
